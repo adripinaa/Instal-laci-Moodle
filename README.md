@@ -1,4 +1,4 @@
-**Pràctica UF4 - Instal·lació i configuració de moodle**
+#Pràctica UF4 - Instal·lació i configuració de moodle
 ### Administració prèvia de Moodle  
 
 1. **Accedir com a administrador**  
