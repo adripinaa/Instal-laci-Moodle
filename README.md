@@ -89,3 +89,12 @@
 
 
 ## 7. Assigna un professor i matricula alumnes al curs A.
+
+![Captura desde 2025-03-31 14-21-18](https://github.com/user-attachments/assets/689ee76f-2679-43c6-99b5-665360b7d7c0)![Captura desde 2025-03-31 14-21-36](https://github.com/user-attachments/assets/637f169b-71bc-4ce8-a102-9f5de226799f)
+![Captura desde 2025-03-28 14-24-25](https://github.com/user-attachments/assets/413025fb-72fe-4f95-ac2a-5589e83dd2b3)
+
+
+![Captura desde 2025-03-31 14-24-04](https://github.com/user-attachments/assets/9cf3dd99-b253-4b16-9024-b73686396bc4)
+![Captura desd![Captura desde 2025-03-31 14-28-45](https://github.com/user-attachments/assets/eeaa3650-fe0e-4777-ad51-986aa4cd66df)
+e 2025-03-31 14-25-18](https://github.com/user-attachments/assets/fa750e5e-4862-46fb-82e5-4cadac6d6c37)
+
