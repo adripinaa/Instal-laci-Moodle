@@ -105,4 +105,5 @@ e 2025-03-31 14-25-18](https://github.com/user-attachments/assets/fa750e5e-4862-
 ![Captura desde 2025-04-01 12-26-49](https://github.com/user-attachments/assets/74431504-2127-4ba3-835b-624d26a3b9c9)
 ![Captura desde 2025-04-01 12-18-58](https://github.com/user-attachments/assets/021dc183-0429-41e2-8925-bb2ec8a7766b)
 ![Captura desde 2025-04-01 12-26-02](https://github.com/user-attachments/assets/a7bd8fc8-8383-4778-bf52-45d98feec3a9)
-![Captura desde 2025-04-01 12-26-08](https://github.com/user-attachments/assets/f2386f7d-9d5e-4774-a3a5-0fc9c1edb910)
+![Captura desde 2025-04-01 12-32-50](https://github.com/user-attachments/assets/8c686653-9677-4b79-907c-9eb86075387d)
+
