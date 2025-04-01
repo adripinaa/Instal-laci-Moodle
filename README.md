@@ -93,8 +93,16 @@
 ![Captura desde 2025-03-31 14-21-18](https://github.com/user-attachments/assets/689ee76f-2679-43c6-99b5-665360b7d7c0)![Captura desde 2025-03-31 14-21-36](https://github.com/user-attachments/assets/637f169b-71bc-4ce8-a102-9f5de226799f)
 ![Captura desde 2025-03-28 14-24-25](https://github.com/user-attachments/assets/413025fb-72fe-4f95-ac2a-5589e83dd2b3)
 
+## 8. Amb el professor afegeix contingut al curs A.
 
 ![Captura desde 2025-03-31 14-24-04](https://github.com/user-attachments/assets/9cf3dd99-b253-4b16-9024-b73686396bc4)
 ![Captura desd![Captura desde 2025-03-31 14-28-45](https://github.com/user-attachments/assets/eeaa3650-fe0e-4777-ad51-986aa4cd66df)
 e 2025-03-31 14-25-18](https://github.com/user-attachments/assets/fa750e5e-4862-46fb-82e5-4cadac6d6c37)
+![Captura desde 2025-04-01 12-18-58](https://github.com/user-attachments/assets/ff6e5202-a829-4af0-bb24-4a66c0c0278d)
 
+## 9. Entra amb un alumne i comprova que pots lliurar la tasca.
+
+![Captura desde 2025-04-01 12-26-49](https://github.com/user-attachments/assets/74431504-2127-4ba3-835b-624d26a3b9c9)
+![Captura desde 2025-04-01 12-18-58](https://github.com/user-attachments/assets/021dc183-0429-41e2-8925-bb2ec8a7766b)
+![Captura desde 2025-04-01 12-26-02](https://github.com/user-attachments/assets/a7bd8fc8-8383-4778-bf52-45d98feec3a9)
+![Captura desde 2025-04-01 12-26-08](https://github.com/user-attachments/assets/f2386f7d-9d5e-4774-a3a5-0fc9c1edb910)
