@@ -97,7 +97,8 @@
 
 ![Captura desde 2025-03-31 14-24-04](https://github.com/user-attachments/assets/9cf3dd99-b253-4b16-9024-b73686396bc4)
 ![Captura desd![Captura desde 2025-03-31 14-28-45](https://github.com/user-attachments/assets/eeaa3650-fe0e-4777-ad51-986aa4cd66df)
-e 2025-03-31 14-25-18](https://github.com/user-attachments/assets/fa750e5e-4862-46fb-82e5-4cadac6d6c37)
+e 2025-03-31 14-25-18](https://github.com/user-attachments/assets/fa750e5e-4862-46fb-82e5-4cadac6d6c37)![Captura desde 2025-04-02 09-41-47](https://github.com/user-attachments/assets/bab2b70f-1e56-43a8-ac46-1fa654c7a5d0)
+
 ![Captura desde 2025-04-01 12-18-58](https://github.com/user-attachments/assets/ff6e5202-a829-4af0-bb24-4a66c0c0278d)
 
 ## 9. Entra amb un alumne i comprova que pots lliurar la tasca.
