@@ -108,3 +108,38 @@ e 2025-03-31 14-25-18](https://github.com/user-attachments/assets/fa750e5e-4862-
 ![Captura desde 2025-04-01 12-26-02](https://github.com/user-attachments/assets/a7bd8fc8-8383-4778-bf52-45d98feec3a9)
 ![Captura desde 2025-04-01 12-32-50](https://github.com/user-attachments/assets/8c686653-9677-4b79-907c-9eb86075387d)
 
+## Continguts
+
+**En el curs A crea una UF amb 2 NF dintre. En aquesta UF crea diverses activitats.**
+
+Primero le damos a "añadir sección" para crear una sección.
+![Captura desde 2025-04-03 09-38-25](https://github.com/user-attachments/assets/5afb7029-779a-4592-82f8-55dc705b71b2)
+
+Seguidamente le damos a añadir actividad y le nombramos "NF".
+![Captura desde 2025-04-03 09-39-38](https://github.com/user-attachments/assets/e0abdbcb-e4e3-475c-8afb-d45ffff23a7a)
+
+Finalmente así tendira que salir.
+![Captura desde 2025-04-03 09-44-07](https://github.com/user-attachments/assets/dbfb96b3-4043-4822-9d3e-a1cdf0417230)
+![Captura desde 2025-04-03 09-48-01](https://github.com/user-attachments/assets/1c9b99cc-4e85-4271-bbc7-d55bd320d32e)
+
+
+## Qualificació
+
+**En el curs A fes que un alumne completi totes les tasques evaluables**
+
+No deja hacer la entrega en ninguna tarea.
+
+![Captura desde 2025-04-03 09-55-17](https://github.com/user-attachments/assets/77321910-92c4-4e11-9716-fe22aa159bef)
+
+
+## Qüestionaris
+
+**Crea un qüestionari**
+
+Primero te vas a añadir actividade, pero en vez de darle a "Tarea", esta vez vas a "Cuestionario".
+
+![Captura desde 2025-04-03 09-39-38](https://github.com/user-attachments/assets/fea0f4d2-9e1a-402f-9167-c8c3ad4ee568)![Captura desde 2025-04-03 10-00-10](https://github.com/user-attachments/assets/f1035ba6-76ac-4534-997e-542823a49d36)
+![Captura desde 2025-04-03 10-05-37](https://github.com/user-attachments/assets/ebdd5d2f-2757-4e32-81f2-16f2cde91fef)
+![Captura desde 2025-04-03 10-06-42](https://github.com/user-attachments/assets/edd34cab-9978-4911-830c-7a3477ffcb9f)
+![Captura desde 2025-04-03 10-12-44](https://github.com/user-attachments/assets/4d823d5f-4d91-471d-8b95-3a1a361229e8)
+![Captura desde 2025-04-03 10-19-17](https://github.com/user-attachments/assets/7fe5abee-204f-499c-b587-587c57839f7f)
